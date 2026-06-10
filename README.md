@@ -1,2 +1,6 @@
-# transport-logs
-# Transport Logs  Public archive of transport schedules.  Maintained by Elias Mercer.
+# Transport Logs
+
+Maintained by Elias Mercer.
+
+Personal Notes:
+Previous handle: eclipsewalker
